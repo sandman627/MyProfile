@@ -20,6 +20,10 @@ h2{
     margin-left: 20px;
 }
 
+.ptitle{
+    font-size: smaller;
+}
+
 #contents{
     float:left;
     width: 300px;
